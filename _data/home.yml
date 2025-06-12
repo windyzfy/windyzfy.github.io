@@ -24,6 +24,9 @@ project_entries:
     url: example
     desc: 往届龙芯杯获奖作品
 
+  - title: 课件
+    url: 课件页
+    desc: 课件资料
   #- title: Project 4
   #  url: overview-post
   #  desc: This project uses highlight markup, configured in _data/home.yml
