@@ -1,8 +1,8 @@
-title: NWPU-NSCSCC
+title: "计算机组成与系统结构"课程网站
 author: NWPU-ZFY
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  “龙芯杯”全称为全国大学生系统能力大赛(National Student Computer System Capability Challenge),简称NSCSCC。 大赛的核心目标是基于指定的指令集构建完整的计算机系统。
+  本课程系统讲授现代计算机系统的核心组成与运行机制，涵盖指令集、数据通路、控制单元、流水线、存储系统和输入输出等内容。课程配套实验内容丰富,学生将通过指导书和课件逐步实现MIPS架构下的单周期与多周期处理器设计、流水线优化、Cache与虚拟内存管理等模块,加深对硬件结构和体系机制的理解提升动手设计与系统分析能力。相关讲义与实验资料可在下方下载。
 
 permalink: /:slug
 
